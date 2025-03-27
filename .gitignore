@@ -9,3 +9,8 @@
 !*.xcworkspace/contents.xcworkspacedata
 /*.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
+
+
+# Added by cargo
+
+/target
