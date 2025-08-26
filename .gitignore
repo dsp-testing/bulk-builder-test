@@ -1,6 +1,10 @@
 /.build/
 /build/
 
+# .NET
+/obj/
+/bin/
+
 # XCode
 *.xcodeproj/*
 !*.xcodeproj/project.pbxproj
